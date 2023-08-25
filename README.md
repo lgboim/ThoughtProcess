@@ -16,7 +16,10 @@ git clone https://github.com/lgboim/ThoughtProcess.git
  ```
 
 2. Navigate to the repository:
+
+ ```
 cd thoughtprocess
+ ```
 
 ### Usage
 1. Run the main file:
