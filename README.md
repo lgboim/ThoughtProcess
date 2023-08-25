@@ -11,14 +11,19 @@ This repository contains a simulation of cognitive processes inspired by the hum
 ### Installation
 1. Clone this repository:
 
+ ```
 git clone https://github.com/lgboim/ThoughtProcess.git
+ ```
 
 2. Navigate to the repository:
 cd thoughtprocess
 
 ### Usage
 1. Run the main file:
+
+ ```
 python main.py
+ ```
 
 2. Follow the on-screen prompts to choose options, generate thoughts, and influence the simulation.
 
